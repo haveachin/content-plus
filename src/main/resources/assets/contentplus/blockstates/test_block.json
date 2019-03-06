@@ -1,0 +1,7 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "contentplus:test_block" }
+        ]
+    }
+}

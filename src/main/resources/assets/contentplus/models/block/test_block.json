@@ -1,0 +1,6 @@
+{
+    "parent": "block/cube_all",
+    "textures": {
+        "all": "contentplus:blocks/test_block"
+    }
+ }
